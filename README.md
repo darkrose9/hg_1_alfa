@@ -1,1 +1,5 @@
-# hg_1_alfa
+# alfa
+| Nombre | Ubicación |
+| ------ | ------ |
+| Miguel Polanco | Venezuela |
+| Jorbi Fernandez | Venezuela |
